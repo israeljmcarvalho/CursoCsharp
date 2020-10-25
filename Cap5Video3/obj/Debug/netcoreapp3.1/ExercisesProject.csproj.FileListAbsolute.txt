@@ -11,16 +11,3 @@ C:\Católica & Tecnologia\C#\Curso Nelio Alves\Exercícios\Cap5Video3\obj\Debug\
 C:\Católica & Tecnologia\C#\Curso Nelio Alves\Exercícios\Cap5Video3\obj\Debug\netcoreapp3.1\ExercisesProject.pdb
 C:\Católica & Tecnologia\C#\Curso Nelio Alves\Exercícios\Cap5Video3\obj\Debug\netcoreapp3.1\ExercisesProject.genruntimeconfig.cache
 C:\Católica & Tecnologia\C#\Curso Nelio Alves\Exercícios\Cap5Video3\obj\Debug\netcoreapp3.1\ExercisesProject.csprojAssemblyReference.cache
-C:\Católica & Tecnologia\C#\Curso Nelio Alves\Exercícios\Cap5\bin\Debug\netcoreapp3.1\ExercisesProject.exe
-C:\Católica & Tecnologia\C#\Curso Nelio Alves\Exercícios\Cap5\bin\Debug\netcoreapp3.1\ExercisesProject.deps.json
-C:\Católica & Tecnologia\C#\Curso Nelio Alves\Exercícios\Cap5\bin\Debug\netcoreapp3.1\ExercisesProject.runtimeconfig.json
-C:\Católica & Tecnologia\C#\Curso Nelio Alves\Exercícios\Cap5\bin\Debug\netcoreapp3.1\ExercisesProject.runtimeconfig.dev.json
-C:\Católica & Tecnologia\C#\Curso Nelio Alves\Exercícios\Cap5\bin\Debug\netcoreapp3.1\ExercisesProject.dll
-C:\Católica & Tecnologia\C#\Curso Nelio Alves\Exercícios\Cap5\bin\Debug\netcoreapp3.1\ExercisesProject.pdb
-C:\Católica & Tecnologia\C#\Curso Nelio Alves\Exercícios\Cap5\obj\Debug\netcoreapp3.1\ExercisesProject.csprojAssemblyReference.cache
-C:\Católica & Tecnologia\C#\Curso Nelio Alves\Exercícios\Cap5\obj\Debug\netcoreapp3.1\ExercisesProject.AssemblyInfoInputs.cache
-C:\Católica & Tecnologia\C#\Curso Nelio Alves\Exercícios\Cap5\obj\Debug\netcoreapp3.1\ExercisesProject.AssemblyInfo.cs
-C:\Católica & Tecnologia\C#\Curso Nelio Alves\Exercícios\Cap5\obj\Debug\netcoreapp3.1\ExercisesProject.csproj.CoreCompileInputs.cache
-C:\Católica & Tecnologia\C#\Curso Nelio Alves\Exercícios\Cap5\obj\Debug\netcoreapp3.1\ExercisesProject.dll
-C:\Católica & Tecnologia\C#\Curso Nelio Alves\Exercícios\Cap5\obj\Debug\netcoreapp3.1\ExercisesProject.pdb
-C:\Católica & Tecnologia\C#\Curso Nelio Alves\Exercícios\Cap5\obj\Debug\netcoreapp3.1\ExercisesProject.genruntimeconfig.cache
