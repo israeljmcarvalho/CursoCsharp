@@ -19,10 +19,10 @@ namespace ExercisesProject.Session_5
         // A U T O  P R O P E R T I E S 
         // ====================================================================================================================================================================================
 
-        public int NumConta { get; }
-        public bool HaveraDP { get; private set; }
-        public double Taxa { get; }
+        public int NumConta { get; private set; }
+        public bool HaveraDP { get; set; }
         public double Saldo { get; private set; } = 0;
+        public double Taxa { get; } = 5;
 
         // ====================================================================================================================================================================================
         // C O N S T R U C T O R S
@@ -32,13 +32,11 @@ namespace ExercisesProject.Session_5
         {
             this.NumConta = numContaInformado;
             this._nome = nomeInformado;
-            this.Taxa = 5;
         }
 
         public S5_Conta(int numContaInformado, string nomeInformado, double depositoInformado) : this(numContaInformado, nomeInformado)
         {
-            this.Saldo = depositoInformado;
-            this.Taxa = 5;
+            RealizarDeposito(depositoInformado);
         }
 
         // ====================================================================================================================================================================================

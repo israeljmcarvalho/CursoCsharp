@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Católica & Tecnologia\\C#\\Curso Nelio Alves\\Exercícios\\Cap5\\ExercisesProject.csproj": {}
+    "C:\\Católica & Tecnologia\\C#\\Curso Nelio Alves\\Exercícios\\Cap5Video3\\ExercisesProject.csproj": {}
   },
   "projects": {
-    "C:\\Católica & Tecnologia\\C#\\Curso Nelio Alves\\Exercícios\\Cap5\\ExercisesProject.csproj": {
+    "C:\\Católica & Tecnologia\\C#\\Curso Nelio Alves\\Exercícios\\Cap5Video3\\ExercisesProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Católica & Tecnologia\\C#\\Curso Nelio Alves\\Exercícios\\Cap5\\ExercisesProject.csproj",
+        "projectUniqueName": "C:\\Católica & Tecnologia\\C#\\Curso Nelio Alves\\Exercícios\\Cap5Video3\\ExercisesProject.csproj",
         "projectName": "ExercisesProject",
-        "projectPath": "C:\\Católica & Tecnologia\\C#\\Curso Nelio Alves\\Exercícios\\Cap5\\ExercisesProject.csproj",
+        "projectPath": "C:\\Católica & Tecnologia\\C#\\Curso Nelio Alves\\Exercícios\\Cap5Video3\\ExercisesProject.csproj",
         "packagesPath": "C:\\Users\\israe\\.nuget\\packages\\",
-        "outputPath": "C:\\Católica & Tecnologia\\C#\\Curso Nelio Alves\\Exercícios\\Cap5\\obj\\",
+        "outputPath": "C:\\Católica & Tecnologia\\C#\\Curso Nelio Alves\\Exercícios\\Cap5Video3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\israe\\AppData\\Roaming\\NuGet\\NuGet.Config",
